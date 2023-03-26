@@ -1,0 +1,941 @@
+/* screen - rtfkt-desktop-1-all-breakpoints */
+
+.rtfkt-desktop-1-all-breakpoints {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(59, 60, 81) 0%, rgba(59, 60, 81, 0.5) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 104px;
+  height: 1200px;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.rtfkt-desktop-1-all-breakpoints .header {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  justify-content: space-between;
+  width: 1388px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .frame-24 {
+  height: 51px;
+  width: 151px;
+  cursor: pointer;
+}
+
+.rtfkt-desktop-1-all-breakpoints .button-2 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.4px;
+  box-shadow: 0px 1.2px 2.4px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .button-2:hover {
+  transform: scale(1.1);
+}
+
+.rtfkt-desktop-1-all-breakpoints .connect-wallet-1 {
+  letter-spacing: -0.99px;
+  line-height: 19.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-desktop-1-all-breakpoints .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 230px;
+  min-width: 1072px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .text {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 650px;
+  position: relative;
+  width: fit-content;
+}
+
+.rtfkt-desktop-1-all-breakpoints .clone-x-rtfkt-x-nike-af-1-forging-1 {
+  height: 310px;
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .rtfkt-invented-the-w-1 {
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .claim {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 20.55px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.89px;
+  min-height: 573px;
+  width: 399px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .frame-25-1 {
+  border-radius: 20.55px;
+  height: 399px;
+  width: 399px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .frame-25-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rtfkt-desktop-1-all-breakpoints .frame-25-1 img {
+  object-fit: cover;
+}
+
+.rtfkt-desktop-1-all-breakpoints .forging-is-live-amount-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  margin-top: 22px;
+  padding: 0px 0px 0px 26.6px;
+  position: relative;
+  width: 399px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .forging-is-live-1 {
+  height: 35.5px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  margin-top: -1.21px;
+  position: relative;
+  width: 291.84px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .redeem-your-physical-sneaker-today-1 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .button-3 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.55px;
+  box-shadow: 0px 1.21px 2.42px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: center;
+  margin-right: 3.0px;
+  margin-top: 7px;
+  overflow: hidden;
+  padding: 6.05px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 360px;
+}
+
+.rtfkt-desktop-1-all-breakpoints .button-3:hover {
+  background-color: #29239b
+}
+
+.rtfkt-desktop-1-all-breakpoints .redeem-nike-air-force-1-1 {
+  letter-spacing: -1.13px;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - rtfkt-desktop-2 */
+
+.rtfkt-desktop-2 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(59, 60, 81) 0%, rgba(59, 60, 81, 0.5) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 104px;
+  height: 1200px;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.rtfkt-desktop-2 .header-1 {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  justify-content: space-between;
+  width: 1148px;
+}
+
+.rtfkt-desktop-2 .frame-24-1 {
+  height: 51px;
+  width: 151px;
+  cursor: pointer;
+}
+
+.rtfkt-desktop-2 .button-4 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.4px;
+  box-shadow: 0px 1.2px 2.4px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.rtfkt-desktop-2 .button-4:hover {
+  transform: scale(1.1);
+}
+
+.rtfkt-desktop-2 .connect-wallet-2 {
+  letter-spacing: -0.99px;
+  line-height: 19.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-desktop-2 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 134px;
+  min-width: 976px;
+}
+
+.rtfkt-desktop-2 .text-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 650px;
+  position: relative;
+  width: fit-content;
+}
+
+.rtfkt-desktop-2 .clone-x-rtfkt-x-nike-af-1-forging-2 {
+  height: 310px;
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-desktop-2 .rtfkt-invented-the-w-2 {
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-desktop-2 .claim-1 {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 20.55px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.89px;
+  min-height: 573px;
+  width: 399px;
+}
+
+.rtfkt-desktop-2 .frame-25-2 {
+  border-radius: 20.55px;
+  height: 399px;
+  width: 399px;
+}
+
+.rtfkt-desktop-2 .frame-25-2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rtfkt-desktop-2 .frame-25-2 img {
+  object-fit: cover;
+}
+
+.rtfkt-desktop-2 .forging-is-live-amount-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  margin-top: 22px;
+  padding: 0px 0px 0px 26.6px;
+  position: relative;
+  width: 399px;
+}
+
+.rtfkt-desktop-2 .forging-is-live-2 {
+  height: 35.5px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  margin-top: -1.21px;
+  position: relative;
+  width: 291.84px;
+}
+
+.rtfkt-desktop-2 .redeem-your-physical-sneaker-today-2 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.rtfkt-desktop-2 .button-5 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.55px;
+  box-shadow: 0px 1.21px 2.42px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: center;
+  margin-right: 3.0px;
+  margin-top: 7px;
+  overflow: hidden;
+  padding: 6.05px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 360px;
+}
+
+.rtfkt-desktop-2 .button-5:hover {
+  background-color: #29239b
+}
+
+.rtfkt-desktop-2 .redeem-nike-air-force-1-2 {
+  letter-spacing: -1.13px;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - rtfkt-mobile */
+
+.rtfkt-mobile {
+  background: linear-gradient(180deg, rgb(58, 59, 81) 0%, rgba(56, 56, 76, 0.35) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 1650px;
+  min-width: 550px;
+  width: 100%;
+}
+
+.rtfkt-mobile .frame-18-1 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 14px;
+  max-height: 35px;
+}
+
+.rtfkt-mobile .rtfkt_logotype-1-1-1 {
+  height: 24px;
+  margin-top: 6px;
+  width: 151px;
+  cursor: pointer;
+}
+
+.rtfkt-mobile .button-6 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 17px;
+  box-shadow: 0px 1px 2px #0000000d;
+  display: flex;
+  height: 35px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5px;
+  position: relative;
+  width: 186px;
+  cursor: pointer;
+}
+
+.rtfkt-mobile .connect-wallet-3 {
+  letter-spacing: -0.85px;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-mobile .frame-28-1 {
+  background-color: var(--bright-gray);
+  border-radius: 26.27px;
+  height: 732.55px;
+  margin-top: 34px;
+}
+
+.rtfkt-mobile .frame-25-3 {
+  border-radius: 26.27px;
+  height: 510px;
+}
+
+.rtfkt-mobile .frame-25-3 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rtfkt-mobile .frame-25-3 img {
+  object-fit: cover;
+}
+
+.rtfkt-mobile .forging-is-live-amount-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  height: 95.86px;
+  margin-top: 28.1px;
+  padding: 0px 0px 0px 34px;
+  position: relative;
+  width: 510px;
+}
+
+.rtfkt-mobile .forging-is-live-3 {
+  color: var(--white);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: 30.9px;
+  font-weight: 400;
+  height: 45.38px;
+  letter-spacing: 0;
+  line-height: 24.7px;
+  margin-top: -1.55px;
+  position: relative;
+  width: 373.03px;
+}
+
+.rtfkt-mobile .redeem-your-physical-sneaker-today-3 {
+  color: var(--silver);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: 18.5px;
+  font-weight: 400;
+  height: 26.84px;
+  letter-spacing: 0;
+  line-height: 24.7px;
+  position: relative;
+  white-space: nowrap;
+  width: 449.92px;
+}
+
+.rtfkt-mobile .button-7 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 26.27px;
+  box-shadow: 0px 1.55px 3.09px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 67.74px;
+  justify-content: center;
+  margin-left: -3.8px;
+  margin-top: 8.9px;
+  overflow: hidden;
+  padding: 7.73px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 460.15px;
+}
+
+.rtfkt-mobile .button-7:hover {
+  background-color: #29239b
+}
+
+.rtfkt-mobile .redeem-nike-air-force-1-3 {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: 26.3px;
+  font-weight: 400;
+  letter-spacing: -1.45px;
+  line-height: 24.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-mobile .frame-28-2 {
+  align-items: flex-start;
+  gap: 14.97px;
+  height: 748.31px;
+  margin-top: 25.3px;
+  position: relative;
+}
+
+.rtfkt-mobile .clone-x-rtfkt-x-nike-af-1-forging-3 {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-semiserif);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 356.88px;
+  letter-spacing: 0;
+  line-height: 81.7px;
+  margin-top: -1.15px;
+  position: relative;
+  width: 510px;
+}
+
+.rtfkt-mobile .rtfkt-invented-the-w-3 {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 29.9px;
+  position: relative;
+  width: 510px;
+}
+
+.rtfkt-mobile .frame-28 {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  width: 510px;
+}
+/* screen - rtfkt-mobile-small */
+
+.rtfkt-mobile-small {
+  background: linear-gradient(180deg, rgb(58, 59, 81) 0%, rgba(56, 56, 76, 0.35) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  flex-direction: column;
+  height: 1250px;
+  padding: 14px 0;
+  width: 100%;
+}
+
+.rtfkt-mobile-small .frame-18 {
+  display: flex;
+  justify-content: space-between;
+  width: 335px;
+}
+
+.rtfkt-mobile-small .button {
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 17px;
+  box-shadow: 0px 1px 2px #0000000d;
+  height: 35px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5px;
+  position: relative;
+  width: 170px;
+}
+
+.rtfkt-mobile-small .connect-wallet {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: -0.82px;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-mobile-small .frame-25 {
+  border-radius: 17.26px;
+  height: 335px;
+  width: 335px;
+}
+
+.rtfkt-mobile-small .forging-is-live-amount {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 63px;
+  margin-top: 200px;
+  padding: 0px 0px 0px 22.33px;
+  position: relative;
+  width: 335px;
+}
+
+.rtfkt-mobile-small .forging-is-live {
+  color: var(--white);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: 20.3px;
+  font-weight: 400;
+  height: 29.81px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  margin-top: -1.02px;
+  position: relative;
+  width: 245.03px;
+}
+
+.rtfkt-mobile-small .redeem-your-physical-sneaker-today {
+  color: var(--silver);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: 12.2px;
+  font-weight: 400;
+  height: 17.63px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: relative;
+  white-space: nowrap;
+  width: 295.54px;
+}
+
+.rtfkt-mobile-small .button-1 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 17.26px;
+  box-shadow: 0px 1.02px 2.03px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 44px;
+  justify-content: center;
+  margin-right: 2.52px;
+  margin-top: 6px;
+  overflow: hidden;
+  padding: 5.08px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 302px;
+}
+
+.rtfkt-mobile-small .button-1:hover {
+  background-color: #29239b
+}
+
+.rtfkt-mobile-small .redeem-nike-air-force-1 {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: 17.3px;
+  font-weight: 400;
+  letter-spacing: -0.95px;
+  line-height: 16.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-mobile-small .frame-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 613px;
+  margin-top: 43px;
+  padding: 0px 16px 0px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.rtfkt-mobile-small .clone-x-rtfkt-x-nike-af-1-forging {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-semiserif);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 262px;
+  letter-spacing: 0;
+  line-height: 60.1px;
+  margin-top: -0.85px;
+  position: relative;
+  width: 332px;
+}
+
+.rtfkt-mobile-small .rtfkt-invented-the-w {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.0px;
+  position: relative;
+  width: 330px;
+}
+
+.rtfkt-mobile-1 {
+  align-items: center;
+  display: flex;
+}
+/* screen - rtfkt-tablet */
+
+.rtfkt-tablet {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(59, 60, 81) 0%, rgba(59, 60, 81, 0.5) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 104px;
+  height: 1200px;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.rtfkt-tablet .header-2 {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  justify-content: space-between;
+  width: 938px;
+}
+
+.rtfkt-tablet .frame-24-2 {
+  height: 51px;
+  width: 151px;
+  cursor: pointer;
+}
+
+.rtfkt-tablet .button-8 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.4px;
+  box-shadow: 0px 1.2px 2.4px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.rtfkt-tablet .button-8:hover {
+  transform: scale(1.1);
+}
+
+.rtfkt-tablet .connect-wallet-4 {
+  letter-spacing: -0.99px;
+  line-height: 19.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rtfkt-tablet .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 43px;
+  margin-right: 1.0px;
+  min-width: 885px;
+}
+
+.rtfkt-tablet .text-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 650px;
+  position: relative;
+  width: fit-content;
+}
+
+.rtfkt-tablet .clone-x-rtfkt-x-nike-af-1-forging-4 {
+  height: 310px;
+  letter-spacing: 0;
+  line-height: 71px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-tablet .rtfkt-invented-the-w-4 {
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 443px;
+}
+
+.rtfkt-tablet .claim-2 {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 20.55px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30.89px;
+  min-height: 573px;
+  width: 399px;
+}
+
+.rtfkt-tablet .frame-25-4 {
+  border-radius: 20.55px;
+  height: 399px;
+  width: 399px;
+}
+
+.rtfkt-tablet .frame-25-4 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rtfkt-tablet .frame-25-4 img {
+  object-fit: cover;
+}
+
+.rtfkt-tablet .forging-is-live-amount-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  margin-top: 22px;
+  padding: 0px 0px 0px 26.6px;
+  position: relative;
+  width: 399px;
+}
+
+.rtfkt-tablet .forging-is-live-4 {
+  height: 35.5px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  margin-top: -1.21px;
+  position: relative;
+  width: 291.84px;
+}
+
+.rtfkt-tablet .redeem-your-physical-sneaker-today-4 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.rtfkt-tablet .button-9 {
+  align-items: center;
+  background-color: var(--ocean-blue-pearl);
+  border-radius: 20.55px;
+  box-shadow: 0px 1.21px 2.42px #0000000d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: center;
+  margin-right: 3.0px;
+  margin-top: 7px;
+  overflow: hidden;
+  padding: 6.05px;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 360px;
+}
+
+.rtfkt-tablet .button-9:hover {
+  background-color: #29239b
+}
+
+.rtfkt-tablet .redeem-nike-air-force-1-4 {
+  letter-spacing: -1.13px;
+  line-height: 19.3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+@media screen and (max-width: 549px) {
+  .screen.rtfkt-desktop-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-2 { 
+    display: none;
+   }
+  .screen.rtfkt-mobile { 
+    display: none;
+   }
+  .screen.rtfkt-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 550px) and (max-width: 989px) {
+  .screen.rtfkt-mobile-small { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-2 { 
+    display: none;
+   }
+  .screen.rtfkt-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 990px) and (max-width: 1199px) {
+  .screen.rtfkt-mobile-small { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-2 { 
+    display: none;
+   }
+  .screen.rtfkt-mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1439px) {
+  .screen.rtfkt-mobile-small { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.rtfkt-mobile { 
+    display: none;
+   }
+  .screen.rtfkt-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.rtfkt-mobile-small { 
+    display: none;
+   }
+  .screen.rtfkt-desktop-2 { 
+    display: none;
+   }
+  .screen.rtfkt-mobile { 
+    display: none;
+   }
+  .screen.rtfkt-tablet { 
+    display: none;
+   }
+}

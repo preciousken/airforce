@@ -1,0 +1,82 @@
+@import url("reset.min.css");
+
+@font-face {
+  font-family: "TT Alientz Var-Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/TT_Alientz_Var.ttf") format("truetype");
+}
+@font-face {
+  font-family: "TT Alientz Var-SemiSerif";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/TT_Alientz_Var.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Söhne-Kräftig";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../Sohne-Kraftig.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.rtfkt_logotype-1-1 {
+  height: 24px;
+  margin-top: 6px;
+  width: 151px;
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: var(--bright-gray);
+  border-radius: 17.26px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 39px;
+  min-height: 481px;
+  width: 335px;
+}
+
+.frame-25 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.frame-25 img {
+  object-fit: cover;
+}

@@ -1,0 +1,66 @@
+:root { 
+  --black: #000000;
+  --bright-gray: #3a3b51;
+  --ocean-blue-pearl: #4f46e5;
+  --silver: #bdbdbd;
+  --white: #ffffff;
+ 
+  --font-size-l: 19.6px;
+  --font-size-m: 17px;
+  --font-size-s: 14.5px;
+  --font-size-xl: 62px;
+  --font-size-xs: 14.4px;
+  --font-size-xxl: 80px;
+  --font-size-xxxl: 92.1px;
+ 
+  --font-family-söhne-kräftig: "Söhne-Kräftig", Helvetica;
+  --font-family-tt_alientz_var-grotesque: "TT Alientz Var-Grotesque", Helvetica;
+  --font-family-tt_alientz_var-semiserif: "TT Alientz Var-SemiSerif", Helvetica;
+}
+.ttalientzvar-grotesque-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ttalientzvar-grotesque-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ttalientzvar-semiserif-normal-white-80px {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-semiserif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.shne-krftig-normal-white-24-2px {
+  color: var(--white);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: 24.2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.shne-krftig-normal-silver-14-5px {
+  color: var(--silver);
+  font-family: var(--font-family-söhne-kräftig);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ttalientzvar-grotesque-normal-white-20-6px {
+  color: var(--white);
+  font-family: var(--font-family-tt_alientz_var-grotesque);
+  font-size: 20.6px;
+  font-style: normal;
+  font-weight: 400;
+}
